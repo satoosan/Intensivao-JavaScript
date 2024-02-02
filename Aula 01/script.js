@@ -45,7 +45,7 @@ function proximaFaixa(){
   }else{
     capituloAtual = 1;
     audioCapitulo.src = './books/dom-casmurro/' + capituloAtual + '.mp3';
-    audioCapitulo.play();
+    audioCapitulo.pause();
   }
   trocarNomeFaixa();
 }
@@ -58,7 +58,7 @@ function anteriorFaixa(){
   }else{
     capituloAtual = numeroCapitulos;
     audioCapitulo.src = './books/dom-casmurro/' + capituloAtual + '.mp3';
-    audioCapitulo.play();
+    audioCapitulo.pause();
   }
   trocarNomeFaixa();
 }
