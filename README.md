@@ -5,4 +5,4 @@ Desenvolvido na semana de Intensivão de JavaScript da [Hashtag Programação](h
 1. [Audio-book](https://github.com/satoosan/Intensivao-JavaScript/tree/main/Aula%2001)
 2. [Aple Watch (Clone Website)](https://github.com/satoosan/Intensivao-JavaScript/tree/main/Aula%2002)
 3. [Cardápio](https://github.com/satoosan/Intensivao-JavaScript/tree/main/Aula%2003)
-4. Sistema de Chat em Tempo Real
+4. [Sistema de Chat em Tempo Real](https://github.com/satoosan/Intensivao-JavaScript/tree/main/Aula%2004)
