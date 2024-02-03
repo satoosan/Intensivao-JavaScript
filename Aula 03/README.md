@@ -1,8 +1,13 @@
-# React + Vite
+# Cardapio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Foi desenvolvido com React + Vite, no Intensivão de JavaScript.
 
-Currently, two official plugins are available:
+## Para utiliza-lo
+```
+npm install
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+npm run dev
+```
+
+Ou acesse diretamente por aqui:
+[Cardapio](https://cardapio-hashtagprogramacao.vercel.app)
